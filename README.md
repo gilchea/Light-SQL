@@ -1,4 +1,4 @@
-# A Small Language Models Based Approach using Prompt Engineering and In-Context Learning for Natural Language to SQL
+# A Small Language Model Based Approach using Prompt Engineering and In-Context Learning for Natural Language to SQL
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-brightgreen) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-yellow) ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red) ![Made with Pytorch](https://img.shields.io/badge/Made%20with-Transformers-orange)
 
@@ -39,7 +39,7 @@ If you would like to cite this paper, please use the following reference:
 
 ```bibtex
 @inproceedings{trang2025slmaproach,
-  title={A Small Language Models Based Approach using Prompt Engineering and In-Context Learning for Natural Language to SQL},
+  title={A Small Language Model Based Approach using Prompt Engineering and In-Context Learning for Natural Language to SQL},
   author={Nguyen, Kieu-Trang and Le, Quang-Hung},
   year={2025}
 }
