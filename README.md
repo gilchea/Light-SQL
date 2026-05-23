@@ -1,4 +1,4 @@
-# A Small Language Model Based Approach using In-Context Learning for Natural Language to SQL
+# Light-SQL: A Small Language Model Based Approach Using In-Context Learning for Natural Language to SQL
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-brightgreen) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-yellow) ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red) ![Made with Pytorch](https://img.shields.io/badge/Made%20with-Transformers-orange)
 
